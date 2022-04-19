@@ -5,7 +5,7 @@
 ## Linguagens
 
 <div style="display: inline_block">
-  <img align="center" alt="C-Sharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="center" alt="vsc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div><br/>
 
 ## -
