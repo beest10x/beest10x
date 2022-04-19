@@ -1,6 +1,6 @@
 ## -
 
-![best stats](https://github-readme-stats.vercel.app/api?username=bestxgc&show_icons=true&theme=dracula&count_private=true)
+![best stats](https://github-readme-stats.vercel.app/api?username={bestxgc}&theme=blue-green)
 
 ## Linguagens
 
